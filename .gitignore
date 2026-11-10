@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.nbi
+*.nbc
+data/opsd_60min.csv
+.DS_Store
+Thumbs.db

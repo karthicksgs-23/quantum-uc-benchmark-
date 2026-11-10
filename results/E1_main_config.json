@@ -1,0 +1,38 @@
+{
+ "D_QUBO": {
+  "K": 3,
+  "alpha": 0.3,
+  "lam1": 1.0,
+  "gstar": 400.0,
+  "link": 1500.0
+ },
+ "AL": {
+  "iters": 6,
+  "alpha": 0.01,
+  "w_res": 0.01
+ },
+ "SA": {
+  "num_reads": 32,
+  "num_sweeps": 1000
+ },
+ "SQA": {
+  "P": 16,
+  "sweeps": 250,
+  "reads": 8,
+  "Tq": 0.01,
+  "G0": 2.0
+ },
+ "TABU": {
+  "num_reads": 8,
+  "timeout": 200
+ },
+ "GA": {
+  "pop": 40,
+  "gens": 150
+ },
+ "SEEDS": [
+  1,
+  2,
+  3
+ ]
+}

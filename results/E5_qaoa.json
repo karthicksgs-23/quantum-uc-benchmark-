@@ -1,0 +1,722 @@
+[
+ {
+  "D": 346.896253489012,
+  "lam": 16.523020403349456,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.0,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.8616670471156425,
+    "p_opt": 6.117804519778517e-05,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": true,
+    "n_eval": 300,
+    "time": 27.60604130000047
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.8829060880309818,
+    "p_opt": 9.878589984287846e-05,
+    "opt_in_1024": false,
+    "shot_gap_pct": 4.805530678896286,
+    "most_prob_is_opt": true,
+    "n_eval": 800,
+    "time": 16.081342499999664
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.8899660795308123,
+    "p_opt": 0.00013061550440475315,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 29.294794399999773
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.8965178631104883,
+    "p_opt": 0.00018885106551990368,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 58.97446029999992
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9084350204722433,
+    "p_opt": 0.00041270608788355844,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 78.58846089999952
+   }
+  ],
+  "date": "2019-01-17",
+  "hour": 3
+ },
+ {
+  "D": 786.8459330895938,
+  "lam": 17.46574447851555,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.0,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.9150891200597506,
+    "p_opt": 0.00010394331360420333,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 21.94801060000009
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9318922839242219,
+    "p_opt": 0.00015713624770860745,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 12.54890130000058
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9394210664292224,
+    "p_opt": 0.00023391611452202866,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 29.30345959999977
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9446836244511988,
+    "p_opt": 0.00037450068597400833,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 49.54888619999929
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9495002609671318,
+    "p_opt": 0.0005211522696563022,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 75.72031679999964
+   }
+  ],
+  "date": "2019-01-17",
+  "hour": 12
+ },
+ {
+  "D": 827.2398474662891,
+  "lam": 17.490788705429104,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.0,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.9162854001507805,
+    "p_opt": 0.0001101918863951114,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 22.687916700000642
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9331810444558035,
+    "p_opt": 0.00017547268566634413,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 16.172637399999985
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9409213708295304,
+    "p_opt": 0.0002649840927995597,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 31.492913099999896
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9454405002230052,
+    "p_opt": 0.0004042539299359853,
+    "opt_in_1024": false,
+    "shot_gap_pct": 2.9449631622906036,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 50.44513129999996
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9500118164678395,
+    "p_opt": 0.0005565990525262211,
+    "opt_in_1024": false,
+    "shot_gap_pct": 2.9449631622906036,
+    "most_prob_is_opt": true,
+    "n_eval": 2000,
+    "time": 81.25550280000061
+   }
+  ],
+  "date": "2019-01-17",
+  "hour": 19
+ },
+ {
+  "D": 544.9148877619216,
+  "lam": 16.56911829225145,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.0,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.8902295784271111,
+    "p_opt": 7.164441925365873e-05,
+    "opt_in_1024": false,
+    "shot_gap_pct": 6.497543070568335,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 24.161758599999303
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9048068161589843,
+    "p_opt": 9.815992552192828e-05,
+    "opt_in_1024": false,
+    "shot_gap_pct": 7.141329045047384,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 14.399250499999653
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9112205942501268,
+    "p_opt": 0.00011838077918419811,
+    "opt_in_1024": false,
+    "shot_gap_pct": 6.326739362893785,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 28.632532999999967
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9151909895291019,
+    "p_opt": 0.00014479965646938456,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 52.152328600000146
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9220456539275773,
+    "p_opt": 0.00022959075304390696,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 78.63781479999943
+   }
+  ],
+  "date": "2019-04-17",
+  "hour": 3
+ },
+ {
+  "D": 540.7084168730589,
+  "lam": 16.56508008019814,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.0,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.8897806632863673,
+    "p_opt": 7.152817422379001e-05,
+    "opt_in_1024": false,
+    "shot_gap_pct": 6.519041926329039,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 22.366937900000266
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9055648251045743,
+    "p_opt": 0.0001019011415589734,
+    "opt_in_1024": false,
+    "shot_gap_pct": 6.772395107811402,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 13.630692300000192
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9127792711197358,
+    "p_opt": 0.000129707220429312,
+    "opt_in_1024": false,
+    "shot_gap_pct": 12.836191415877686,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 29.023352700000032
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9180814055891144,
+    "p_opt": 0.0001842710397541243,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 53.50235260000045
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9277679290493696,
+    "p_opt": 0.000378107307358552,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 83.96579230000043
+   }
+  ],
+  "date": "2019-04-17",
+  "hour": 12
+ },
+ {
+  "D": 898.1011911782049,
+  "lam": 17.45412273853049,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.0,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.9261107717542654,
+    "p_opt": 0.00012444192739646513,
+    "opt_in_1024": false,
+    "shot_gap_pct": 1.5236230889117852,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 21.560602599999584
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9412563041467321,
+    "p_opt": 0.00018349896201975315,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 13.434865500000342
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.94943486684327,
+    "p_opt": 0.0002617501601483435,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 34.04000980000001
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9521363192286886,
+    "p_opt": 0.0003250608593549938,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 51.39245049999954
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9550154925013988,
+    "p_opt": 0.0004023464022932324,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 82.63275869999961
+   }
+  ],
+  "date": "2019-04-17",
+  "hour": 19
+ },
+ {
+  "D": 642.8037897550811,
+  "lam": 17.376438349648154,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 2.376867019947637,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.9033639047854788,
+    "p_opt": 7.532173283447739e-05,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 22.117904499999895
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9207159929227864,
+    "p_opt": 0.00010814060997849853,
+    "opt_in_1024": false,
+    "shot_gap_pct": 2.376867019947637,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 14.062359200000174
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9281557280823424,
+    "p_opt": 0.00013538814525207053,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 19.111569699999563
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9359667403997929,
+    "p_opt": 0.00023538785089876325,
+    "opt_in_1024": true,
+    "shot_gap_pct": 2.376867019947637,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 31.11915829999998
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9417464898109635,
+    "p_opt": 0.00032065810364669814,
+    "opt_in_1024": true,
+    "shot_gap_pct": 2.376867019947637,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 83.96343510000042
+   }
+  ],
+  "date": "2019-07-16",
+  "hour": 3
+ },
+ {
+  "D": 706.8050477650665,
+  "lam": 17.416119129614344,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.0,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.9109223141383392,
+    "p_opt": 8.3571312932976e-05,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 23.582299200000307
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9274804640017862,
+    "p_opt": 0.00012450130821065086,
+    "opt_in_1024": false,
+    "shot_gap_pct": 8.53459151279874,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 14.888430400000289
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9350871354426001,
+    "p_opt": 0.00017365396620801297,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 31.567681500000617
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9415836960676871,
+    "p_opt": 0.0003040750974672169,
+    "opt_in_1024": false,
+    "shot_gap_pct": 4.643337606435005,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 54.58567540000058
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9471741129908967,
+    "p_opt": 0.00042850801766975533,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 85.49048099999982
+   }
+  ],
+  "date": "2019-07-16",
+  "hour": 12
+ },
+ {
+  "D": 933.8955065455832,
+  "lam": 17.476315214058264,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.42256700200919983,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.9306307050812117,
+    "p_opt": 0.00013321945055113483,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 23.47034110000004
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.944491745854068,
+    "p_opt": 0.0001926767818927567,
+    "opt_in_1024": false,
+    "shot_gap_pct": 3.8567621250919615,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 7.4559707999997045
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9522141608708345,
+    "p_opt": 0.0002685534222665448,
+    "opt_in_1024": false,
+    "shot_gap_pct": 3.8567621250919615,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 13.654503099999602
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9548864256217118,
+    "p_opt": 0.00033068238943050597,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.42256700200919983,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 22.962604100000135
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9575818592417181,
+    "p_opt": 0.0004028452774635445,
+    "opt_in_1024": false,
+    "shot_gap_pct": 3.8567621250919615,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 32.51905679999982
+   }
+  ],
+  "date": "2019-07-16",
+  "hour": 19
+ },
+ {
+  "D": 614.3609702402013,
+  "lam": 17.358803801548927,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 2.580406227211207,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.8997920181490845,
+    "p_opt": 7.430615092525179e-05,
+    "opt_in_1024": true,
+    "shot_gap_pct": 2.580406227211207,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 9.088910299999952
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9135136883824803,
+    "p_opt": 0.00011743775094214902,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 5.535338200000297
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9270728192906027,
+    "p_opt": 0.00018294614186238403,
+    "opt_in_1024": false,
+    "shot_gap_pct": 2.580406227211207,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 11.73053660000005
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9336006220670633,
+    "p_opt": 0.00024732608688990756,
+    "opt_in_1024": true,
+    "shot_gap_pct": 2.580406227211207,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 20.033607200000006
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.939358500465203,
+    "p_opt": 0.0003466656436379183,
+    "opt_in_1024": true,
+    "shot_gap_pct": 2.580406227211207,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 33.345889300000636
+   }
+  ],
+  "date": "2019-10-21",
+  "hour": 3
+ },
+ {
+  "D": 974.6628926367102,
+  "lam": 17.420990993434764,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 1.5613917968237967,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.9350561431430718,
+    "p_opt": 0.00018042021186087196,
+    "opt_in_1024": false,
+    "shot_gap_pct": 1.4467283622880744,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 9.066305599999396
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9523601709701306,
+    "p_opt": 0.0002983961834968676,
+    "opt_in_1024": false,
+    "shot_gap_pct": 1.5613917968237967,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 5.477425799999764
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9598362401646418,
+    "p_opt": 0.0004185650349371918,
+    "opt_in_1024": true,
+    "shot_gap_pct": 1.5613917968237967,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 11.978606499999842
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9628699957758382,
+    "p_opt": 0.0005231401702488585,
+    "opt_in_1024": true,
+    "shot_gap_pct": 1.5613917968237967,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 20.293385200000557
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.9655841682411577,
+    "p_opt": 0.0006574414147553113,
+    "opt_in_1024": true,
+    "shot_gap_pct": 1.5613917968237967,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 31.849116099998355
+   }
+  ],
+  "date": "2019-10-21",
+  "hour": 12
+ },
+ {
+  "D": 1198.5100444234777,
+  "lam": 19.926939953610884,
+  "n_qubits": 15,
+  "qubo_opt_gap_pct": 0.0,
+  "levels": [
+   {
+    "p": 1,
+    "approx_ratio": 0.9461805304107967,
+    "p_opt": 0.0003821220626119108,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 300,
+    "time": 9.065204099999391
+   },
+   {
+    "p": 2,
+    "approx_ratio": 0.9636092302276837,
+    "p_opt": 0.000571554825162706,
+    "opt_in_1024": false,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 800,
+    "time": 5.426949000000604
+   },
+   {
+    "p": 3,
+    "approx_ratio": 0.9710785260910532,
+    "p_opt": 0.0007235531798317413,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1200,
+    "time": 11.873498599999948
+   },
+   {
+    "p": 4,
+    "approx_ratio": 0.9730749668025636,
+    "p_opt": 0.000808842818564543,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 1600,
+    "time": 20.659955099999934
+   },
+   {
+    "p": 5,
+    "approx_ratio": 0.974513472266604,
+    "p_opt": 0.0009175661592621785,
+    "opt_in_1024": true,
+    "shot_gap_pct": 0.0,
+    "most_prob_is_opt": false,
+    "n_eval": 2000,
+    "time": 33.31528860000071
+   }
+  ],
+  "date": "2019-10-21",
+  "hour": 19
+ }
+]
